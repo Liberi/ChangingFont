@@ -1,0 +1,20 @@
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.exe.config
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.exe
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.pdb
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.AssemblyReference.cache
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение_шрифта_Fount.Form1.resources
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение_шрифта_Fount.Properties.Resources.resources
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.GenerateResource.cache
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.CoreCompileInputs.cache
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.exe
+C:\Шалыгин Эдуард\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.pdb
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.exe.config
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.exe
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\bin\Debug\Изменение шрифта Fount.pdb
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.AssemblyReference.cache
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение_шрифта_Fount.Form1.resources
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение_шрифта_Fount.Properties.Resources.resources
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.GenerateResource.cache
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.csproj.CoreCompileInputs.cache
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.exe
+C:\Users\7102a\source\repos\Изменение шрифта Fount\Изменение шрифта Fount\obj\Debug\Изменение шрифта Fount.pdb
